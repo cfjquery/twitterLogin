@@ -1,0 +1,7 @@
+I'm not a java dev but I figured it out eventually, and it is very neat and compact.
+
+To get the twitter4j to load I just put
+twitter4j-core-3.0.3.jar into C:\ColdFusion10\cfusion\wwwroot\WEB-INF\lib
+
+
+	
